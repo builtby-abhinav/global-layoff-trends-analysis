@@ -65,13 +65,12 @@ Built an interactive dashboard with KPI cards, top-company/country breakdowns, a
 ## Repository Structure
 
 global-layoff-trends-analysis/
-├── DATA_CLEANING_LAYOFFS.sql # Data cleaning queries
-├── EDA_LAYOFFS.sql # Exploratory analysis queries
-├── Global Layoffs Analysis.pbix # Power BI dashboard
+├── DATA_CLEANING_LAYOFFS.sql       # Data cleaning queries
+├── EDA_LAYOFFS.sql                 # Exploratory analysis queries
+├── Global Layoffs Analysis.pbix    # Power BI dashboard
 ├── Global Layoffs dashboard image.jpg
-├── Global_layoffs (raw data).csv # Raw dataset
+├── Global_layoffs (raw data).csv   # Raw dataset
 └── README.md
-
 
 ---
 
