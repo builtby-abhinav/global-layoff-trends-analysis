@@ -64,6 +64,7 @@ Built an interactive dashboard with KPI cards, top-company/country breakdowns, a
 
 ## Repository Structure
 
+```
 global-layoff-trends-analysis/
 ├── DATA_CLEANING_LAYOFFS.sql       # Data cleaning queries
 ├── EDA_LAYOFFS.sql                 # Exploratory analysis queries
@@ -71,7 +72,7 @@ global-layoff-trends-analysis/
 ├── Global Layoffs dashboard image.jpg
 ├── Global_layoffs (raw data).csv   # Raw dataset
 └── README.md
-
+```
 ---
 
 ## Skills Demonstrated
